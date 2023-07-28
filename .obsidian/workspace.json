@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "no-confidence-motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "no-confidence-motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "no-confidence-motion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9900e6c2244238fb",
+  "active": "ff6274ad12ff077b",
   "lastOpenFiles": [
-    "3rd-term-3rd-economy.md",
+    "Raj-Min-Guaranteed-Income.md",
     "no-confidence-motion.md",
+    "3rd-term-3rd-economy.md",
     "SEBI-fixed-price.md",
     "tribal-cannabis.md"
   ]
