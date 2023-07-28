@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3rd-term-3rd-economy.md",
+                "file": "no-confidence-motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3rd-term-3rd-economy.md",
+                "file": "no-confidence-motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3rd-term-3rd-economy.md"
+                "file": "no-confidence-motion.md"
               }
             }
           }
@@ -144,8 +144,9 @@
   },
   "active": "9900e6c2244238fb",
   "lastOpenFiles": [
-    "SEBI-fixed-price.md",
     "3rd-term-3rd-economy.md",
+    "no-confidence-motion.md",
+    "SEBI-fixed-price.md",
     "tribal-cannabis.md"
   ]
 }
