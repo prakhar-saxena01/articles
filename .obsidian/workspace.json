@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff79c74b33764c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEBI-fixed-price.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tribal-cannabis.md",
+                "file": "SEBI-fixed-price.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tribal-cannabis.md",
+                "file": "SEBI-fixed-price.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tribal-cannabis.md"
+                "file": "SEBI-fixed-price.md"
               }
             }
           }
@@ -146,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d916c67dd8ef252e",
-  "lastOpenFiles": []
+  "active": "ff79c74b33764c3a",
+  "lastOpenFiles": [
+    "tribal-cannabis.md",
+    "SEBI-fixed-price.md"
+  ]
 }
